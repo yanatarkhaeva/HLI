@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div id="container">
+    <div id="Layer1" style="position:absolute;text-align:left;left:0px;top:120px;width:1170px;height:870px;z-index:14;">
+    </div>    
+    <form name="SiteSearch1_form" id="SiteSearch1_form" role="search" accept-charset="UTF-8" onsubmit="return searchPage(features)">
+        <input type="text" id="SiteSearch1" style="position:absolute;left:191px;top:158px;width:779px;height:16px;z-index:16;" name="SiteSearch1" value="" spellcheck="false" placeholder="Фильмы, анимация" role="searchbox"></form>
+    <div id="SlideShow1" style="position:absolute;left:162px;top:212px;width:978px;height:382px;visibility:hidden;z-index:17;">
+        <img class="image" src="pictures/15633.jpg" alt="" title="">
+        <img class="image" src="pictures/15633.jpg" style="display:none;" alt="" title="">
+        <img class="image" src="pictures/15633.jpg" style="display:none;" alt="" title="">
+        <img class="image" src="pictures/15633.jpg" style="display:none;" alt="" title="">
+    </div>
+    <div id="wb_Text4" style="position:absolute;left:395px;top:624px;width:250px;height:16px;visibility:hidden;z-index:18;">
+        <span style="color:#000000;font-family:Arial;font-size:13px;">Popular from</span></div>
+    <div id="wb_PhotoGallery1" style="position:absolute;left:150px;top:663px;width:1003px;height:195px;visibility:hidden;z-index:20;">
+        <div id="PhotoGallery1">
+           <div class="thumbnails">
+              <div class="thumbnail">
+                 <a href="pictures/15633.jpg"><img alt="" src="pictures/15633.jpg"></a>
+              </div>
+              <div class="thumbnail">
+                 <a href="images/Koala.jpg"><img alt="" src="images/Koala.jpg"></a>
+              </div>
+              <div class="thumbnail">
+                 <a href="images/Lighthouse.jpg"><img alt="" src="images/Lighthouse.jpg"></a>
+              </div>
+              <div class="thumbnail">
+                 <a href="images/Jellyfish.jpg"><img alt="" src="images/Jellyfish.jpg"></a>
+              </div>
+              <div class="clearfix visible-col4"></div>
+           </div>
+        </div>
+    </div>
+    <div id="wb_Carousel1" style="position:absolute;left:229px;top:246px;width:712px;height:417px;z-index:21;overflow:hidden;">
+        <div id="Carousel1" style="position:absolute;">
+            <div class="frame frame-1">
+            </div>
+            <div class="frame frame-2">
+            </div>
+            <div class="frame frame-3">
+            </div>
+        </div>
+        <div id="Carousel1_back"><a><img alt="Back" src="images/carousel_back.png"></a></div>
+        <div id="Carousel1_next"><a><img alt="Next" src="images/carousel_next.png"></a></div>
+    </div>
+    <div id="wb_Text7" style="position:absolute;left:524px;top:205px;width:122px;height:31px;z-index:22;">
+        <span style="color:#000000;font-family:Georgia;font-size:27px;">Новинки</span></div>
+    <div id="wb_Text8" style="position:absolute;left:390px;top:707px;width:206px;height:31px;z-index:23;">
+        <span style="color:#000000;font-family:Georgia;font-size:27px;">Популярное из</span></div>
+    <select name="Combobox2" size="1" id="Combobox2" style="position:absolute;left:615px;top:704px;width:166px;height:36px;z-index:24;">
+        <option>фильмы</option>
+        <option>сериалы</option>
+        <option>анимация</option>
+    </select>
+    <div>
+        <p>The library has the following record counts:</p>
+      <ul>
+        <li><strong>Количество фильмов:</strong> {{ num_films }}</li>
+          <li><strong>Количество актеров:</strong> {{ num_actors }}</li>
+      </ul>
+    </div>
+    <div id="wb_Carousel2" style="position:absolute;left:229px;top:755px;width:712px;height:198px;z-index:26;overflow:hidden;">
+        <div id="Carousel2" style="position:absolute;">
+            <div class="frame">
+            </div>
+            <div class="frame">
+            </div>
+            <div class="frame">
+            </div>
+        </div>
+        <div id="Carousel2_back"><a><img alt="Back" src="images/carousel_back.png"></a></div>
+        <div id="Carousel2_next"><a><img alt="Next" src="images/carousel_next.png"></a></div>
+    </div>
+</div>  
+
+{% endblock %}
