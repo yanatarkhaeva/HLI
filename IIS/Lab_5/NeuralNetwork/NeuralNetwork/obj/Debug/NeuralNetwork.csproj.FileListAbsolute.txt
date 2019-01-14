@@ -1,0 +1,11 @@
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\NeuralNetwork\NeuralNetwork\bin\Debug\System.ValueTuple.dll
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\NeuralNetwork\NeuralNetwork\bin\Debug\System.ValueTuple.xml
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.Form1.resources
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.Properties.Resources.resources
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
