@@ -1,0 +1,39 @@
+C:\Users\asus\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\asus\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\asus\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\asus\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\asus\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\asus\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\asus\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\asus\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1 — копия\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1 — копия\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1 — копия\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1 — копия\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1 — копия\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1 — копия\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1 — копия\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1 — копия\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\asus\Desktop\4курс 1семестр\интеллектуальные ИСИТ\semanticheart\WindowsFormsApplication1 — копия\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
